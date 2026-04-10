@@ -1,0 +1,28 @@
+@import "./reset.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@300;400;500;600&display=swap');
+
+html, body{
+    font-family: "Saira", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1440px; 
+    padding: 0 32px;
+}
+
+.header {
+    background-color: #000;
+    background-image: url('./../img/mt.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 800px;
+    border-radius: 54px 54px 54px 54px;
+    color: #fff;
+}
+
+
+
+
+
